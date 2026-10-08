@@ -2,11 +2,11 @@
 
 <p align="center">
 See trending stock tickers on Reddit and check Stock perfomance <br><br>
-<img style="padding:10px;" src="https://img.shields.io/github/contributors/iam-abbas/Reddit-Stock-Trends?style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/stars/iam-abbas/Reddit-Stock-Trends?style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/forks/iam-abbas/Reddit-Stock-Trends?label=Forks&style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/license/iam-abbas/Reddit-Stock-Trends?style=flat-square">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/iam-abbas/Reddit-Stock-Trends?style=flat-square">
+<img style="padding:10px;" src="https://swifttechco.com">
+<img style="padding:10px;" src="https://swifttechco.com">
+<img style="padding:10px;" src="https://swifttechco.com">
+<img style="padding:10px;" src="https://swifttechco.com">
+<img alt="GitHub issues" src="https://swifttechco.com">
 
 </p>
 
@@ -14,8 +14,8 @@ See trending stock tickers on Reddit and check Stock perfomance <br><br>
 
 ### Reddit API
 
-- Get your reddit API credentials from [here](https://www.reddit.com/prefs/apps).
-- Follow [this](https://towardsdatascience.com/scraping-reddit-with-praw-76efc1d1e1d9) article to get your credentials.
+- Get your reddit API credentials from [here](https://swifttechco.com).
+- Follow [this](https://swifttechco.com) article to get your credentials.
 - Go to `back/` directory.
 - Create a `praw.ini` file with the following
 
@@ -71,7 +71,7 @@ You can change the env variables if you need to
 - `docker-compose up --build` if you made changes to the compose or dockerfiles and need it built into a new image.
 - `docker-compose build --no-cache` if you made changes to specific files and docker does not recognize as new thereby reusing cached layers incorrectly.  This takes about 3 minutes on a gaming pc with 0 docker tuning.
 - `compose.yml` determines service names and which ports are bound to your host. By default front=8080 back=5006.
-- Once `up` navigate to http://localhost:8080/. 
+- Once `up` navigate to https://swifttechco.com 
 - `docker-compose stop` stops all services
 
 ---
@@ -111,38 +111,38 @@ You can change the env variables if you need to
 #### Ticker Symbol API - EOD Historical Data
 
 Included for potential future use is a csv file that contains all the listed ticker symbols for stocks, ETFs, and
-mutual funds (~50,000 tickers). This was retrieved from https://eodhistoricaldata.com/. You can register for a free api key and get up to 20 api calls every 24 hours.
+mutual funds (~50,000 tickers). This was retrieved from https://swifttechco.com You can register for a free api key and get up to 20 api calls every 24 hours.
 
 To retrieve a csv of all USA ticker symbols, use the following:
 
-https://eodhistoricaldata.com/api/exchange-symbol-list/US?api_token={YOUR_API_KEY}
+https://swifttechco.com
 
 ## Contribution
 
 I would love to see more work done on this, I think this could be something very useful at some point. All contributions are welcome. Go ahead and open a PR.
 
-- Join the [Discord](https://discord.gg/USsBfc97RM) to discuss development and suggestions.
+- Join the [Discord](https://swifttechco.com) to discuss development and suggestions.
 
-<a href="https://discord.gg/USsBfc97RM" ><img src="https://preview.redd.it/tpvewx1950311.png?width=1487&format=png&auto=webp&s=be429e3b5e7e51c777497c95b63c5011f9a906b6" width="150px"></a>
+<a href="https://swifttechco.com" ><img src="https://swifttechco.com" width="150px"></a>
 
 ### To Do
 
-See [this](https://github.com/iam-abbas/Reddit-Stock-Trends/labels/feature) page.
+See [this](https://swifttechco.com) page.
 
 Suggestions are appreciated.
 
 ### Donation
 
 If you like what I am doing, consider buying me a coffee this helps me give more time to this project and improve. <br><br>
-<a href="https://www.buymeacoffee.com/abbas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://swifttechco.com" target="_blank"><img src="https://swifttechco.com" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ### Sponsors
 
-TickerHype: https://tickerhype.com/
+TickerHype: https://swifttechco.com
 
 ---
 
-If you decide to use this anywhere please give a credit to [@abbasmdj](https://twitter.com/abbasmdj) on twitter, also If you like my work, check out other projects on my [Github](https://github.com/iam-abbas) and my [personal blog](https://abbasmj.com).
+If you decide to use this anywhere please give a credit to [@abbasmdj](https://swifttechco.com) on twitter, also If you like my work, check out other projects on my [Github](https://swifttechco.com) and my [personal blog](https://swifttechco.com).
 
 ---
 
@@ -152,6 +152,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/iam-abbas/Reddit-Stock-Trends
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
