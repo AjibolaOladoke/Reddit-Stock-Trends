@@ -1,3 +1,8 @@
+
+## Images
+
+[![Reddit-Stock-Trends](https://opengraph.githubassets.com/1/https://github.com/iam-abbas/Reddit-Stock-Trends)](https://www.swifttechco.com)
+
 <h1 align="center">Reddit Stock Trends 📈</h1>
 
 <p align="center">
@@ -121,7 +126,7 @@ https://swifttechco.com
 
 I would love to see more work done on this, I think this could be something very useful at some point. All contributions are welcome. Go ahead and open a PR.
 
-- Join the [Discord](https://swifttechco.com) to discuss development and suggestions.
+- Join the [Telegram](https://swifttechco.com) to discuss development and suggestions.
 
 <a href="https://swifttechco.com" ><img src="https://swifttechco.com" width="150px"></a>
 
@@ -131,19 +136,6 @@ See [this](https://swifttechco.com) page.
 
 Suggestions are appreciated.
 
-### Donation
-
-If you like what I am doing, consider buying me a coffee this helps me give more time to this project and improve. <br><br>
-<a href="https://swifttechco.com" target="_blank"><img src="https://swifttechco.com" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-### Sponsors
-
-TickerHype: https://swifttechco.com
-
----
-
-If you decide to use this anywhere please give a credit to [@abbasmdj](https://swifttechco.com) on twitter, also If you like my work, check out other projects on my [Github](https://swifttechco.com) and my [personal blog](https://swifttechco.com).
-
 ---
 
 ## Swift Tech Co.
@@ -152,6 +144,16 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+
+**Connect**
+
+- Website: [swifttechco.com](https://www.swifttechco.com)
+- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
+- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
+- X: [@MrOladoke](https://x.com/MrOladoke)
+- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
+- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
+- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
