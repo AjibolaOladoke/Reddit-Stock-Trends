@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+
+  backend:
+    build:
+      context: ./back/
+    ports:
+      - "5006:5006"
+    volumes:
+      - "./back:/code"
+
+  frontend:
+    environment:
+      - VUE_APP_API_URL=http://backend:5006/
+    build:
+      context: ./front/
+    ports:
+      - "8080:8080"
+    volumes:
+      - "./front:/code"
+    depends_on:
+      - backend
+
+  react-front:
+    environment:
+      - VUE_APP_API_URL=http://backend:5006/
+    build:
+      context: ./react-front/
+    ports:
+      - "3000:3000"
+    volumes:
+      - "./react-front:/code"
+    depends_on:
+      - backend
+  
