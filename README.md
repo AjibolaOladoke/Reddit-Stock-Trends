@@ -1,17 +1,13 @@
 
 ## Images
 
-[![Reddit-Stock-Trends](https://opengraph.githubassets.com/1/https://github.com/iam-abbas/Reddit-Stock-Trends)](https://www.swifttechco.com)
+[![Reddit-Stock-Trends](https://opengraph.githubassets.com/1/iam-abbas/Reddit-Stock-Trends)](https://www.swifttechco.com)
 
 <h1 align="center">Reddit Stock Trends 📈</h1>
 
 <p align="center">
 See trending stock tickers on Reddit and check Stock perfomance <br><br>
-<img style="padding:10px;" src="https://swifttechco.com">
-<img style="padding:10px;" src="https://swifttechco.com">
-<img style="padding:10px;" src="https://swifttechco.com">
-<img style="padding:10px;" src="https://swifttechco.com">
-<img alt="GitHub issues" src="https://swifttechco.com">
+
 
 </p>
 
@@ -128,7 +124,7 @@ I would love to see more work done on this, I think this could be something very
 
 - Join the [Telegram](https://swifttechco.com) to discuss development and suggestions.
 
-<a href="https://swifttechco.com" ><img src="https://swifttechco.com" width="150px"></a>
+<a href="https://swifttechco.com" ></a>
 
 ### To Do
 
