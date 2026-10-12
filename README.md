@@ -1,22 +1,19 @@
+# Reddit-Stock-Trends
+
+## What This Is
+
+Every project needs a shelf of ready answers. product and engineering is one of those shelves, and Reddit-Stock-Trends is the entry on it - the notes, patterns and fixes we reuse when this kind of work comes up.
 
 ## Images
 
-[![Reddit-Stock-Trends](https://opengraph.githubassets.com/1/iam-abbas/Reddit-Stock-Trends)](https://www.swifttechco.com)
-
-<h1 align="center">Reddit Stock Trends 📈</h1>
-
-<p align="center">
-See trending stock tickers on Reddit and check Stock perfomance <br><br>
-
-
-</p>
+[![Reddit-Stock-Trends](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Backend
 
 ### Reddit API
 
-- Get your reddit API credentials from [here](https://swifttechco.com).
-- Follow [this](https://swifttechco.com) article to get your credentials.
+- Get your reddit API credentials from here.
+- Follow this article to get your credentials.
 - Go to `back/` directory.
 - Create a `praw.ini` file with the following
 
@@ -122,13 +119,13 @@ https://swifttechco.com
 
 I would love to see more work done on this, I think this could be something very useful at some point. All contributions are welcome. Go ahead and open a PR.
 
-- Join the [Telegram](https://swifttechco.com) to discuss development and suggestions.
+- Join the Telegram to discuss development and suggestions.
 
 <a href="https://swifttechco.com" ></a>
 
 ### To Do
 
-See [this](https://swifttechco.com) page.
+See this page.
 
 Suggestions are appreciated.
 
@@ -142,14 +139,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [iam-abbas/Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
