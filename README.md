@@ -6,7 +6,7 @@ Every project needs a shelf of ready answers. product and engineering is one of 
 
 ## Images
 
-[![Reddit-Stock-Trends](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![Reddit-Stock-Trends](images/preview.png)](https://github.com/Swift-Tech-Co/Reddit-Stock-Trends)
 
 ## Backend
 
@@ -69,7 +69,7 @@ You can change the env variables if you need to
 - `docker-compose up --build` if you made changes to the compose or dockerfiles and need it built into a new image.
 - `docker-compose build --no-cache` if you made changes to specific files and docker does not recognize as new thereby reusing cached layers incorrectly.  This takes about 3 minutes on a gaming pc with 0 docker tuning.
 - `compose.yml` determines service names and which ports are bound to your host. By default front=8080 back=5006.
-- Once `up` navigate to https://swifttechco.com 
+- Once `up` navigate to https://github.com/Swift-Tech-Co/Reddit-Stock-Trends 
 - `docker-compose stop` stops all services
 
 ---
@@ -109,11 +109,11 @@ You can change the env variables if you need to
 #### Ticker Symbol API - EOD Historical Data
 
 Included for potential future use is a csv file that contains all the listed ticker symbols for stocks, ETFs, and
-mutual funds (~50,000 tickers). This was retrieved from https://swifttechco.com You can register for a free api key and get up to 20 api calls every 24 hours.
+mutual funds (~50,000 tickers). This was retrieved from https://github.com/Swift-Tech-Co/Reddit-Stock-Trends You can register for a free api key and get up to 20 api calls every 24 hours.
 
 To retrieve a csv of all USA ticker symbols, use the following:
 
-https://swifttechco.com
+https://github.com/Swift-Tech-Co/Reddit-Stock-Trends
 
 ## Contribution
 
@@ -121,7 +121,7 @@ I would love to see more work done on this, I think this could be something very
 
 - Join the Telegram to discuss development and suggestions.
 
-<a href="https://swifttechco.com" ></a>
+<a href="https://github.com/Swift-Tech-Co/Reddit-Stock-Trends" ></a>
 
 ### To Do
 
@@ -143,13 +143,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/Reddit-Stock-Trends
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [iam-abbas/Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
